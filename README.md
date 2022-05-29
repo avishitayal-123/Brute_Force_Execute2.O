@@ -24,7 +24,16 @@
   <img src = "https://user-images.githubusercontent.com/94181768/170850923-a7aea94d-8ae1-4599-ad85-56546d879414.png" width="30%" height="45%"/>
 </p>
 
-## STEP : 3 - Clothes Segmentation:
+## STEP : 3 - IPQER DANCE - Pose Change:
+**It is an aditional module that is attached if a user wants to change his/her body pose. This model works upon SMPL, it is a pre trained model which we have made compatible according to our use case. Black Refernce Image gives the best results here.**
+
+<p float = "left"> 
+  <img src = "https://user-images.githubusercontent.com/94181768/170851254-8ea6929b-e9b9-4c97-baee-075c2ca8410f.png" width="40%" height="20%"/>
+  <img src = "https://user-images.githubusercontent.com/94181768/170851422-990831d4-25a2-4473-875c-50cf82982ead.png" width="40%" height="20%"/>
+
+</p>
+
+
 
 ## K-Means Cluster:
 
