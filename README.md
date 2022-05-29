@@ -24,7 +24,7 @@
   <img src = "https://user-images.githubusercontent.com/94181768/170850923-a7aea94d-8ae1-4599-ad85-56546d879414.png" width="30%" height="45%"/>
 </p>
 
-
+## STEP : 3 - Clothes Segmentation:
 
 ## K-Means Cluster:
 
