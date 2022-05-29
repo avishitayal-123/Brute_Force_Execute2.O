@@ -8,6 +8,10 @@
 <img src="https://user-images.githubusercontent.com/94181768/170849932-a768c995-040b-4880-8c61-ecb08d35c7e0.png" width="27.5%" height="27.5%"/>
 </p>
 
+## STEP : 2 - Clothes Segmentation:
+**We have 2 Models for this Segmentation task. One is a Pre - Trained Model and other is a Self Trained Module which we have trained on the dataset extracted from Myntra Website using the code 
+
+
 ## K-Means Cluster:
 
 **As we have the front image of the cloth using mediapipe, so with a view to have the backside of the 3D image of cloth we use K-means cluster. 
