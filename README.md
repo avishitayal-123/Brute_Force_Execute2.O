@@ -2,10 +2,11 @@
 
 ## STEP : 1 - Mediapipe Body Detection:
 **If we have full body image of a Model, the face with hands and cordinates of the shoulders must be recorded, we will be using Mediapipe full body detection for this Module**
-![image](https://user-images.githubusercontent.com/94181768/170849835-b6a42757-5011-4641-92db-6824f182dc2b.png)
-![image](https://user-images.githubusercontent.com/94181768/170849838-582d1a76-96b9-45cf-af44-66d1447d8f00.png)
-![image](https://user-images.githubusercontent.com/94181768/170849847-56bec59a-2a62-4886-afa2-047b4f94deac.png)
-
+<p float="left"> 
+<img src="https://user-images.githubusercontent.com/94181768/170849835-b6a42757-5011-4641-92db-6824f182dc2b.png" width="30%" height="30%"/>
+<img src="https://user-images.githubusercontent.com/94181768/170849838-582d1a76-96b9-45cf-af44-66d1447d8f00.png" width="25%" height="25%"/>
+<img src="https://user-images.githubusercontent.com/94181768/170849932-a768c995-040b-4880-8c61-ecb08d35c7e0.png" width="27.5%" height="27.5%"/>
+</p>
 
 ## K-Means Cluster:
 
