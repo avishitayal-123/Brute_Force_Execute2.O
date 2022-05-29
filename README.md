@@ -9,7 +9,9 @@
 </p>
 
 ## STEP : 2 - Clothes Segmentation:
-**We have 2 Models for this Segmentation task. One is a Pre - Trained Model and other is a Self Trained Module which we have trained on the dataset extracted from Myntra Website using the code 
+**We have 2 Models for this Segmentation task. One is a Pre - Trained Model and other is a Self Trained Module which we have trained on the dataset extracted from Myntra Website using the code Downloaded-Image-Myntra**
+
+
 
 
 ## K-Means Cluster:
